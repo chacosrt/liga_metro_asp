@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jahernandez\\Desktop\\Tocly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|c:\\users\\jahernandez\\desktop\\tocly\\views\\ui\\sweetalert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|solutionrelative:views\\ui\\sweetalert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|c:\\users\\jahernandez\\desktop\\tocly\\views\\form\\plugins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|solutionrelative:views\\form\\plugins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|c:\\users\\jahernandez\\desktop\\tocly\\wwwroot\\assets\\js\\pages\\form-advanced.init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|solutionrelative:wwwroot\\assets\\js\\pages\\form-advanced.init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|c:\\users\\jahernandez\\desktop\\tocly\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|c:\\users\\jahernandez\\desktop\\tocly\\appsettings.1json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DFDE5BA-B2B0-449E-8D56-1A8DB57C8F64}|Tocly.csproj|solutionrelative:appsettings.1json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sweetalert.cshtml",
+              "DocumentMoniker": "C:\\Users\\jahernandez\\Desktop\\Tocly\\Views\\Ui\\Sweetalert.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ui\\Sweetalert.cshtml",
+              "ToolTip": "C:\\Users\\jahernandez\\Desktop\\Tocly\\Views\\Ui\\Sweetalert.cshtml",
+              "RelativeToolTip": "Views\\Ui\\Sweetalert.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T23:09:11.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "form-advanced.init.js",
+              "DocumentMoniker": "C:\\Users\\jahernandez\\Desktop\\Tocly\\wwwroot\\assets\\js\\pages\\form-advanced.init.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\pages\\form-advanced.init.js",
+              "ToolTip": "C:\\Users\\jahernandez\\Desktop\\Tocly\\wwwroot\\assets\\js\\pages\\form-advanced.init.js",
+              "RelativeToolTip": "wwwroot\\assets\\js\\pages\\form-advanced.init.js",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-25T17:15:45.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plugins.cshtml",
+              "DocumentMoniker": "C:\\Users\\jahernandez\\Desktop\\Tocly\\Views\\Form\\plugins.cshtml",
+              "RelativeDocumentMoniker": "Views\\Form\\plugins.cshtml",
+              "ToolTip": "C:\\Users\\jahernandez\\Desktop\\Tocly\\Views\\Form\\plugins.cshtml",
+              "RelativeToolTip": "Views\\Form\\plugins.cshtml",
+              "ViewState": "AQIAAOsBAAAAAAAAAAAAAPcBAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T16:54:12.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jahernandez\\Desktop\\Tocly\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jahernandez\\Desktop\\Tocly\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T16:30:20.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.1json",
+              "DocumentMoniker": "C:\\Users\\jahernandez\\Desktop\\Tocly\\appsettings.1json",
+              "RelativeDocumentMoniker": "appsettings.1json",
+              "ToolTip": "C:\\Users\\jahernandez\\Desktop\\Tocly\\appsettings.1json",
+              "RelativeToolTip": "appsettings.1json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T16:29:09.186Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
